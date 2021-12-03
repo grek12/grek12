@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/-JAVA-ED8B00?style=for-the-badge&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MAVEN-d4492c?style=for-the-badge&logo=Laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SPRING-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white"/>
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-d4492c?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/-POSTGRESQL-316192?style=for-the-badge&logo=POSTGRESQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
