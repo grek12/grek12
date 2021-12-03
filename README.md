@@ -1,5 +1,4 @@
 <p>Welcome to my page! </br> I'm Alexandr, Java developer trainee from <img src="https://cdn-icons-png.flaticon.com/512/330/330437.png" width="13"/> <b>Kazan, Russia</b>. </p>
-<h3>Things I code with</h3>
 <p>
   
 <img src="https://img.shields.io/badge/-DOCKER-119fdb?style=for-the-badge&logo=DOCKER&logoColor=white"/>
