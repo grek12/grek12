@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/-POSTGRESQL-316192?style=for-the-badge&logo=POSTGRESQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grek12&theme=buefy&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
