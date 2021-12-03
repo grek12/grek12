@@ -1,16 +1,18 @@
-### Hi there 👋
+<p>Welcome to my page! </br> I'm Alexandr, Java developer trainee from <img src="https://cdn-icons-png.flaticon.com/512/330/330437.png" width="13"/> <b>Kazan, Russia</b>. </p>
+<h3>Things I code with</h3>
+<p>
+  
+<img src="https://img.shields.io/badge/-DOCKER-119fdb?style=for-the-badge&logo=DOCKER&logoColor=white"/>
 
-<!--
-**grek12/grek12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/-JAVA-ED8B00?style=for-the-badge&logo=JAVA&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MAVEN-d4492c?style=for-the-badge&logo=Laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SPRING-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white"/>
+<img src="https://img.shields.io/badge/-POSTGRESQL-316192?style=for-the-badge&logo=POSTGRESQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 
-Here are some ideas to get you started:
+  </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grek12&theme=buefy&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
+
+
