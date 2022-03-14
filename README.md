@@ -14,7 +14,7 @@
 <img src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   </br>
-[![grek12's GitHub stats](https://github-readme-stats.vercel.app/api?username=grek12&show_icons=true&border_radius=12&theme=shades-of-purple (https://github.com/anuraghazra/github-readme-stats)
+[![grek12's GitHub stats](https://github-readme-stats.vercel.app/api?username=grek12)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grek12&theme=buefy&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
 
