@@ -19,13 +19,6 @@ Welcome to my page! </br> I'm Alexandr, Java developer from <img src="https://cd
 <img src="https://img.shields.io/badge/-JQuery-0867ad?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 
-
-## **Connect with me 👇**
-<p align="center">
-<a href="https://github.com/grek12"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/alexandr-dolgov-1bbb14267/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
-<a href="https://instagram.com/oriole_ll?igshid=MzMyNGUyNmU2YQ=="><img src="https://user-images.githubusercontent.com/58532023/171219320-cc1517cb-54a9-470c-a92d-965524a7b3aa.png" alt="Instagram"/></a>
-
 </p>
 
 
