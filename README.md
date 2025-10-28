@@ -6,7 +6,6 @@ Welcome to my page! </br> I'm Alexandr, Java developer from <img src="https://cd
 <img src="https://img.shields.io/badge/-SPRING-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HIBERNATE-315700?style=for-the-badge&logo=HIBERNATE&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-d4492c?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/-POSTGRESQL-316192?style=for-the-badge&logo=POSTGRESQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
